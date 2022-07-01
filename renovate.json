@@ -8,7 +8,8 @@
     {
       "matchUpdateTypes": ["major", "minor", "patch", "pin", "digest"],
       "automerge": true,
-      "ignoreTests": true
+      "ignoreTests": true,
+      "automergeType": "branch"
     }
   ]
 }
